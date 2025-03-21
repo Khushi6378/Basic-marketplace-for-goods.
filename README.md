@@ -22,5 +22,8 @@ The vision of the NFT Art Marketplace is to empower artists and collectors by pr
 
 - 0x32CFaFc4bA244E3624d5dB129F83838c7299aCfe
 - ![image](https://github.com/user-attachments/assets/8fb33f01-fec0-4292-8bb1-90a2b5c51b89)
+- ##frontend
+- ![WhatsApp Image 2025-03-21 at 15 26 05_b6d37658](https://github.com/user-attachments/assets/fa2252ac-772b-4302-a4a2-f8292f7729d6)
+
 
 
