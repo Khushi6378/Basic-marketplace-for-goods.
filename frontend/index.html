@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFT Art Marketplace</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="app.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>NFT Art Marketplace</h1>
+        
+        <section class="mint">
+            <h2>Mint NFT</h2>
+            <input type="text" id="tokenURI" placeholder="Token URI">
+            <input type="number" id="nftPrice" placeholder="Price in ETH">
+            <button onclick="mintNFT()">Mint NFT</button>
+        </section>
+        
+        <section class="market">
+            <h2>Available NFTs</h2>
+            <div id="nft-list"></div>
+        </section>
+    </div>
+</body>
+</html>
